@@ -1,6 +1,7 @@
-# Spacetime Server
-Esse repositório possui o Back-end da aplicação.
+# Spacetime Server Api
+API para web a app da nossa aplicação spacetime.
 
 Tecnologias utilizadas
 -Prisma
 -Fastify 
+-Zod
